@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>AR Quick Look 範例</title>
-</head>
-<body>
-    <h1>點擊查看AR模型</h1>
-    <a href="https://github.com/ian9911007/USDZ/blob/main/Bottle%20opener.usdz" rel="ar">
-        <img src="預覽圖.jpg" alt="你的模型預覽">
-    </a>
-    <p>在iPhone/iPad上點擊上方圖片以開啟AR。</p>
-</body>
-</html>
+
